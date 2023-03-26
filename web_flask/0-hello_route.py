@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Start Flask"""
+"""To start Flask"""
 
 from flask import Flask
 
